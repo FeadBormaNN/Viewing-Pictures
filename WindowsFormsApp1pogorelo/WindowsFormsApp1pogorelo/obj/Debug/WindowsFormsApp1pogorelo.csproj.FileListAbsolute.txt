@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\WindowsFormsApp1pogorelo\WindowsFormsApp1pogorelo\bin\Debug\WindowsFormsApp1pogorelo.exe.config
+C:\Users\student\source\repos\WindowsFormsApp1pogorelo\WindowsFormsApp1pogorelo\bin\Debug\WindowsFormsApp1pogorelo.exe
+C:\Users\student\source\repos\WindowsFormsApp1pogorelo\WindowsFormsApp1pogorelo\bin\Debug\WindowsFormsApp1pogorelo.pdb
+C:\Users\student\source\repos\WindowsFormsApp1pogorelo\WindowsFormsApp1pogorelo\obj\Debug\WindowsFormsApp1pogorelo.csprojAssemblyReference.cache
+C:\Users\student\source\repos\WindowsFormsApp1pogorelo\WindowsFormsApp1pogorelo\obj\Debug\WindowsFormsApp1pogorelo.Form1.resources
+C:\Users\student\source\repos\WindowsFormsApp1pogorelo\WindowsFormsApp1pogorelo\obj\Debug\WindowsFormsApp1pogorelo.Properties.Resources.resources
+C:\Users\student\source\repos\WindowsFormsApp1pogorelo\WindowsFormsApp1pogorelo\obj\Debug\WindowsFormsApp1pogorelo.csproj.GenerateResource.cache
+C:\Users\student\source\repos\WindowsFormsApp1pogorelo\WindowsFormsApp1pogorelo\obj\Debug\WindowsFormsApp1pogorelo.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\WindowsFormsApp1pogorelo\WindowsFormsApp1pogorelo\obj\Debug\WindowsFormsApp1pogorelo.exe
+C:\Users\student\source\repos\WindowsFormsApp1pogorelo\WindowsFormsApp1pogorelo\obj\Debug\WindowsFormsApp1pogorelo.pdb
